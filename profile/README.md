@@ -50,7 +50,7 @@ If the download button doesn’t work, follow the Terminal installation method b
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://global.discourse-cdn.com/sketchup/optimized/3X/9/b/9b2348a983e4476a412008b9f7afca68f1faec5e_2_690x431.jpeg" alt="SketchUp Pro macOS Workspace Screenshot" />
+  <img src="https://global.discourse-cdn.com/sketchup/original/3X/1/7/17cd989945be30bec3a75df9cf16b6fdc479a528.png" alt="SketchUp Pro macOS Workspace Screenshot" />
 </p>
 
 ---
